@@ -1,25 +1,27 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to the CMSO!"
 date:   2017-05-04 18:29:21 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The Cell Migration Standardisation Organisation (CMSO) is created to organize and streamline the creation of community-sourced standards in the field of cell migration.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+These standards should cover three key aspects:
 
-Jekyll also offers powerful support for code snippets:
+    Minimal reporting requirements
+    Controlled vocabularies
+    Data formats and API standards
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The minimal reporting requirements are written guidelines that ensure that sufficient metadata is provided to understand and possibly repeat an experiment.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Controlled vocabularies ensure that uniform annotation is used, and that this annotation is both human-readable as well as computer-readable.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Data formats and API standards are key to allow transparent and effortless access to the reported data, results and all associated metadata.
+
+Everyone interested is welcome to join the CMSO, and to participate in any way possible in the standards creation and maintenance processes.
+
+The CMSO efforts are coordinated by a number of elected volunteers, and the work is split into several working groups.
+
+The most notable events for the CMSO are the workshops, for which participation is always free and open to anyone interested.
+
+CMSO is also represented on BioSharing.org.
