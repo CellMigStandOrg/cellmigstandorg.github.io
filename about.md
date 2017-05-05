@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
+title: About the CMSO
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The CMSO is a young organization that has a specific goal: to facilitate the development of community standards for the field of cell migration.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+As such, the CMSO is based on voluntary efforts from the community, and is 
+open for anyone interested to contribute towards the creation and maintenance 
+of the standards.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+If you are interested in the people behind the CMSO, you can find these here.
+
+If you are interested in the work performed by the CMSO, have a look at the 
+working groups that are listed here.
+
+If you want to get involved in the CMSO, have a look here. A great place to 
+start, is to attend one of the free workshops organized by the CMSO!
+
+The CMSO is supported by the MULTIMOT project of the European Commission’s H2020 programme.
+
