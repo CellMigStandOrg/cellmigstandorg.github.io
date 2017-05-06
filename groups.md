@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Working groups
+permalink: /groups/
 ---
 
 The CMSO consists of three working groups, that each cover a specific topic of
