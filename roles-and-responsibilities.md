@@ -8,23 +8,24 @@ After the inaugural meeting in Ghent, Belgium on 2 and 3 March 2016, elections h
 
 For the overall CMSO:
 
-    Chair: Lennart Martens, VIB and Ghent University, Belgium (Coordinator of the MULTIMOT project )
-    Co-Chair: Staffan Strömblad, Karolinska Institutet, Sweden
+- Chair: Lennart Martens, VIB and Ghent University, Belgium (Coordinator of the MULTIMOT project )
+ 
+- Co-Chair: Staffan Strömblad, Karolinska Institutet, Sweden
 
 For the working groups:
 
-1. Minimal Requirements working group
+1. [Minimal Requirements working group](/groups/minimal-requirements)
 
-    Chair: Julia Sero, Institute of Cancer Research, UK
-    Co-chair: Marleen Van Troys, Ghent University, Belgium
-    Secretary: Alejandra Gonzalez Beltràn, Oxford University, UK
+   - Chair: Julia Sero, Institute of Cancer Research, UK
+   - Co-chair: Marleen Van Troys, Ghent University, Belgium
+   - Secretary: Alejandra Gonzalez Beltràn, Oxford University, UK
 
-2. Controlled Vocabularies working group
+2. [Controlled Vocabularies working group](/groups/controlled-vocabularies)
 
-    Chair: Philippe Rocca-Serra, Oxford University, UK
-    Co-Chair: David Abraham, Data Curator, USA
+   - Chair: Philippe Rocca-Serra, Oxford University, UK
+   - Co-Chair: David Abraham, Data Curator, USA
 
-3. Standard Formats and Software APIs working group
+3. [Standard Formats and Software APIs working group](/groups/formats-api)
 
-    Chair: Josh Moore, University of Dundee, UK
-    Co-chair: Paola Masuzzo, VIB and Ghent University, Belgium
+   - Chair: Josh Moore, University of Dundee, UK
+   - Co-chair: Paola Masuzzo, VIB and Ghent University, Belgium
