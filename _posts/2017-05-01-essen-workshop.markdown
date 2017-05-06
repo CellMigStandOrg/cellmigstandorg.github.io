@@ -5,7 +5,7 @@ date:   2017-05-01
 categories: announcement workshop
 ---
 
-![](/images/330px-muenster_rathaus_essen.jpg)
+![Muenster Rathaus Essen](/images/330px-muenster_rathaus_essen.jpg)
 
 The third official CMSO workshop will take place in Essen, Germany, the 19th
 and 20th of June 2017. The workshop will be hosted by the lab of

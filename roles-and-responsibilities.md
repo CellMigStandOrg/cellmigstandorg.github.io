@@ -12,7 +12,7 @@ For the overall CMSO:
  
 - Co-Chair: Staffan Strömblad, Karolinska Institutet, Sweden
 
-For the [working groups](/groups):
+For the [working groups]({{ site.url }}/groups):
 
 1. Minimal Requirements working group
 
