@@ -5,7 +5,7 @@ date:   2015-03-03
 categories: announcement workshop
 ---
 
-![Participants at the inaugural CMSO workshop in Ghent, Belgium]({{ site.url }}/images/dsc03627_small.jpg)
+![Participants at the inaugural CMSO workshop in Ghent, Belgium]({{ site.baseurl }}/images/dsc03627_small.jpg)
 
 This inaugural workshop has kicked-off the CMSO, and took place in Ghent, Belgium on 2 and 3 March 2016. You can find the announcement flyer
 [here](/downloads/cmso_workshop_flyer.pdf).
