@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Inaugural Workshop, Ghent, Belgium
-date:   2015-03-03
+date:   2016-03-03
 categories: announcement workshop
 ---
 
