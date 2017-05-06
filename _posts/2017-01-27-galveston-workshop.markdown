@@ -5,12 +5,12 @@ date:   2017-01-28
 categories: announcement workshop
 ---
 
-![Galveston hotel](/images/wyndham.png)
+![Galveston hotel]({{ site.baseurl }}/images/wyndham.png)
 
 “Towards a standardized cell migration data ecosystem ”
 
 The second workshop of the
-[Cell Migration Standardization Organization](http://cmso.science) will be
+[Cell Migration Standardization Organization]({{ site.baseurl }}/about) will be
 held in Galveston, Texas on the 27 th and 28 th of January 2017. Recent
 technological advances have transformed cell migration into a data-intensive
 field lacking intra- and inter-lab data management solutions, standardization
@@ -28,7 +28,7 @@ above).
 Participation in the workshop is free for all attendees, but do note that
 participants will have to pay for their own transport and accommodation.
 
-[Meeting Announcement Flyer](/downloads/cmsoworkshopflyergalveston3.doc)
+[Meeting Announcement Flyer]({{ site.baseurl }}/downloads/cmsoworkshopflyergalveston3.doc)
 
 Agenda
 
