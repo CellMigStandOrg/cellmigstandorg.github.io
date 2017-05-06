@@ -1,6 +1,7 @@
 language: ruby
 sudo: false
 cache: bundler
+rvm: 2.2
 install: bundle install
 script:
     - bundle exec jekyll build --config _config_dev.yml
