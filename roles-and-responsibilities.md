@@ -12,20 +12,20 @@ For the overall CMSO:
  
 - Co-Chair: Staffan Strömblad, Karolinska Institutet, Sweden
 
-For the working groups:
+For the [working groups](/groups):
 
-1. [Minimal Requirements working group](/groups/minimal-requirements)
+1. Minimal Requirements working group
 
    - Chair: Julia Sero, Institute of Cancer Research, UK
    - Co-chair: Marleen Van Troys, Ghent University, Belgium
    - Secretary: Alejandra Gonzalez Beltràn, Oxford University, UK
 
-2. [Controlled Vocabularies working group](/groups/controlled-vocabularies)
+2. Controlled Vocabularies working group
 
    - Chair: Philippe Rocca-Serra, Oxford University, UK
    - Co-Chair: David Abraham, Data Curator, USA
 
-3. [Standard Formats and Software APIs working group](/groups/formats-api)
+3. Standard Formats and Software APIs working group
 
    - Chair: Josh Moore, University of Dundee, UK
    - Co-chair: Paola Masuzzo, VIB and Ghent University, Belgium

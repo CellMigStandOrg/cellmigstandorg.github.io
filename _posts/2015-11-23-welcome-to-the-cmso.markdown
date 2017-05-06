@@ -11,9 +11,9 @@ field of cell migration.
 
 These standards should cover three key aspects:
 
-- [Minimal reporting requirements](/groups/minimal-requirements)
-- [Controlled vocabularies](/groups/controlled-vocabularies)
-- [Data formats and API standards](/groups/formats-api)
+- Minimal reporting requirements
+- Controlled vocabularies
+- Data formats and API standards
 
 The minimal reporting requirements are written guidelines that ensure that
 sufficient metadata is provided to understand and possibly repeat an
