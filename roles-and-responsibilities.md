@@ -35,8 +35,7 @@ For the [working groups]({{ site.baseurl }}/groups):
 
    - Chair: [Philippe Rocca-Serra](http://www.oerc.ox.ac.uk/people/philippe-rocca-serra),
      Oxford University, UK
-   - Co-Chair: [David Abraham](https://www.linkedin.com/in/david-abraham-15737613/),
-     Data Curator, USA
+   - Co-Chair: David Abraham, Data Curator, USA
 
 3. Standard Formats and Software APIs working group
 
