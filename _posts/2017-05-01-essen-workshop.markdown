@@ -2,7 +2,7 @@
 layout: post
 title:  CMSO Workshop, Essen, Germany
 date:   2017-05-01
-categories: announcement workshop
+categories: workshop
 ---
 
 ![Muenster Rathaus Essen]({{ site.baseurl }}/images/330px-muenster_rathaus_essen.jpg)

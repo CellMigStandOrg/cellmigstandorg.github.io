@@ -2,7 +2,7 @@
 layout: post
 title:  Inaugural Workshop, Ghent, Belgium
 date:   2016-03-03
-categories: announcement workshop
+categories: workshop
 ---
 
 ![Participants at the inaugural CMSO workshop in Ghent, Belgium]({{ site.baseurl }}/images/dsc03627_small.jpg)

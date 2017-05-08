@@ -2,7 +2,7 @@
 layout: post
 title:  CMSO Workshop, Galveston, TX, USA
 date:   2017-01-28
-categories: announcement workshop
+categories: workshop
 ---
 
 ![Galveston hotel]({{ site.baseurl }}/images/wyndham.png)
