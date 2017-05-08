@@ -20,8 +20,8 @@ quick search through the archive before asking a question to avoid duplication
 of questions and answers.
 
 Another way in which you can easily contribute to the CMSO, is by spreading
-the word. Subscribe to our Twitter feed (@CellMigStandOrg) and react to, like,
-share, or retweet our tweets.
+the word. Subscribe to our [Twitter feed](https://twitter.com/CellMigStandOrg)
+and react to, like, share, or retweet our tweets.
 
 If you want to get really active, we will be very happy to receive you at one
 of our free workshops, where the real hard work of standardization is done!

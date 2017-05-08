@@ -47,11 +47,9 @@ reporting guidelines. The purpose is to gain input on the quality and the
 necessity of the proposed requirements to take into account during further
 discussion.
 
-The survey can be found here
+The survey can be found [here](https://goo.gl/3YlAu1).
 
-
-
-## Controlled vocabularies working group
+## Controlled vocabularies
 
 Controlled vocabularies are a key element to ensure unambiguous annotation of
 data and results. Controlled vocabularies are moreover designed to be both
