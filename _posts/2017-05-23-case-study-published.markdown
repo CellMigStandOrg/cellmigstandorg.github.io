@@ -17,6 +17,7 @@ format/library is introduced, as it is based on the [Data Package](http://fricti
 specification developed by the Frictionless Data team.
 
 ![standards-blocks]({{ site.baseurl }}/images/standards-blocks.png)
+(*image credit: CMSO*)
 
 Other interesting case studies can also be seen [here](http://frictionlessdata.io/case-studies/).
 
