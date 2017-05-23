@@ -5,16 +5,13 @@ date: 2017-05-23T00:00:00.000Z
 categories: announcement
 ---
 
-[Frictionless Data](http://frictionlessdata.io/) has published a case study on  
-how CMSO is using and adapting its specifications and tools for cell migration standards.
+[Frictionless Data](http://frictionlessdata.io/) has published a case study on how CMSO is using and adapting its specifications and tools for cell migration standards.
 
 You can read the case study [here](http://frictionlessdata.io/case-studies/cmso/).
 
 The article presents the three main standards blocks of CMSO, as shown in the Figure below.
 
-In particular, the [biotracks](https://github.com/CellMigStandOrg/biotracks)  
-format/library is introduced, as it is based on the [Data Package](http://frictionlessdata.io/data-packages/)  
-specification developed by the Frictionless Data team.
+In particular, the [biotracks](https://github.com/CellMigStandOrg/biotracks) format/library is introduced, as it is based on the [Data Package](http://frictionlessdata.io/data-packages/) specification developed by the Frictionless Data team.
 
 ![standards-blocks]({{ site.baseurl }}/images/standards-blocks.png)
 (*image credit: CMSO*)
