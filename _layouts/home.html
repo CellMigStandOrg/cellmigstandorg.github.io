@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <h1 class="page-heading">Welcome to the CMSO</h1>
+
+    The <a href="https://cellmigstandorg.github.io/">Cell Migration Standardisation Organisation (CMSO)</a>a was created to organize and streamline the creation of community-sourced standards in the field of cell migration.
+
+    These standards should cover three key aspects:
+    <ul>
+        <li>Minimal reporting requirements</li>
+        <li>Controlled vocabularies</li>
+        <li>Data formats and API standards</li>
+    </ul>
+
+    The minimal reporting requirements are written guidelines that ensure that sufficient metadata is provided to understand and possibly repeat an experiment.
+
+    Controlled vocabularies ensure that uniform annotation is used, and that this annotation is both human-readable as well as computer-readable.
+
+    Data formats and API standards are key to allow transparent and effortless access to the reported data, results and all associated metadata.
+
+    Everyone interested is welcome to join the CMSO, and to participate in any way possible in the standards creation and maintenance processes.
+
+    The CMSO efforts are coordinated by a number of elected volunteers, and the work is split into several working groups.
+
+    The most notable events for the CMSO are the workshops, for which participation is always free and open to anyone interested.
+
+    CMSO is also represented on <a href="https://fairsharing.org/">FAIRsharing.org</a>
+
+
+
+    <h1 class="page-heading">Posts</h1>
+
+    {{ content }}
+
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+            <h2>
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+        </li>
+        {% endfor %}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
