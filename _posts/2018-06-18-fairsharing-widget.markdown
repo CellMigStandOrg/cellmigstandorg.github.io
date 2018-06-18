@@ -14,8 +14,8 @@ FAIRsharing allows users to create collections. Collections group together one o
 CMSO created a collection in FAIRsharing including reporting guidelines, terminologies, and models or formats that are relevant to the cell migration community. The collection can be seen following [this link](https://fairsharing.org/collection/CellMigrationStandardisationOrganisation).
 
 Recently, the [FAIRsharing team](https://fairsharing.org) has also produced a widget that allows to embed FAIRsharing collections in other web pages. The widget allows to visualize the different resources in the collection as a table or as a graph. The
-graph view shows the network of relationships among the resources in the collection. You can move the graph around, see summary information for each node and click on each node to see its whole record in FAIRsharing. It is also possible to visualise other related resources
-that are currently not in the collection. This may allow organisations to consider resources of which they may not have been aware.
+graph view shows the network of relationships among the resources in the collection. You can drage the graph around, zoom in to examine a specific region in more detail, see summary information for each node and click on each node to see its whole record in FAIRsharing.
+It is also possible to visualise other related resources that are currently not in the collection. This may allow organisations to consider resources of which they may not have been aware.
 
 We are now using the FAIRsharing widget for the CMSO collection in our page, and you can visit it [here]({{ site.baseurl }}/fairsharing-widget/).
 
