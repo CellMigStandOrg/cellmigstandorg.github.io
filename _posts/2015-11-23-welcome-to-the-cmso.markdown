@@ -37,5 +37,4 @@ and the work is split into several working groups.
 The most notable events for the CMSO are the workshops, for which
 participation is always free and open to anyone interested.
 
-CMSO is also represented on 
-[BioSharing.org](https://biosharing.org/collection/CellMigrationStandardisationOrganisation).
+CMSO is also represented on [FAIRsharing.org](https://fairsharing.org/).
