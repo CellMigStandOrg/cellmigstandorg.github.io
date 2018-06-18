@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <meta name="author" content="ISAtools"/>
+    <title>Widget example</title>
+</head>
+<body>
+<div id=main>
+    <div id='widget'></div>
+</div>
+<script src="https://fairsharing.org/static/dist/lib/FAIRsharingServices.js" ></script>
+<script>
+    var widget = FAIRsharingServices.widgets.collectionWidget.new({
+        host: 'https://fairsharing.org',
+        apiKey: '697927bfca262819ced2eb65d194ecc7696ebe75',
+        id: 'bsg-c000022',
+        selector: '#widget',
+        tableStyle: {
+        },
+        graphStyle: {
+        }
+    });
+    widget.render();
+</script>
+</body>
+</html>
