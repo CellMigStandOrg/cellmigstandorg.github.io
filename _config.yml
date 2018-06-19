@@ -28,3 +28,11 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+header_pages:
+  - index.md
+  - blog.md
+  - roles-and-responsibilities.md
+  - workshops.md
+  - how-to-get-involved.md
+  - groups.md
+  - fairsharing-widget.md

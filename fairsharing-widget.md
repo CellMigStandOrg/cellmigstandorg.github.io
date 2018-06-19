@@ -1,5 +1,5 @@
 ---
 layout: widget
-title: FAIRsharing CMSO Collection
+title: FAIRsharing Collection
 permalink: /fairsharing_widget/
 ---

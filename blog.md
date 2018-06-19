@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: CMSO blog
+title: News
 permalink: /blog/
 ---

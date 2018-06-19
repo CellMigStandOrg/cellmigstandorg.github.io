@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAIRsharing widget
+title: CMSO FAIRsharing collection available from our website!
 date: 2018-06-18T00:00:00.000Z
 categories: announcement
 author: Alejandra Gonzalez-Beltran

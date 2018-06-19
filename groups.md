@@ -4,7 +4,7 @@ title: Working groups
 permalink: /groups/
 ---
 
-The CMSO consists of three working groups, that each cover a specific topic of
+The CMSO consists of three working groups, each covering a specific topic of
 interest in the standardization of the field of cell migration.
 
 These three working groups are:
@@ -12,6 +12,11 @@ These three working groups are:
 - Minimal reporting requirements working group
 - Controlled vocabularies working group
 - Data formats and API standards working group
+
+Of course, there needs to be considerable interaction between the different
+working groups, but this split along topical lines allows the working groups
+to focus on a specific standardization aspect internally.
+
 
 ## Minimal reporting requirements
 
@@ -59,10 +64,6 @@ The goal of this working group is to examine existing controlled vocabularies
 (CVs) for re-use where possible, to propose the addition of terms to an
 existing CV where appropriate, and to create a novel CV where necessary.
 
-
-Of course, there needs to be considerable interaction between the different
-working groups, but this split along topical lines allows the working groups
-to focus on a specific standardization aspect internally.
 
 ## Data formats and API standards 
 
