@@ -10,7 +10,7 @@ categories: workshop
 “Towards a standardized cell migration data ecosystem ”
 
 The second workshop of the
-[Cell Migration Standardization Organization]({{ site.baseurl }}/about) will be
+[Cell Migration Standardization Organization]({{ site.baseurl }}) will be
 held in Galveston, Texas on the 27 th and 28 th of January 2017. Recent
 technological advances have transformed cell migration into a data-intensive
 field lacking intra- and inter-lab data management solutions, standardization

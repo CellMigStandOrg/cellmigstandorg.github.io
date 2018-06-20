@@ -1,12 +1,8 @@
 
+# Cell Migration Standardisation Organisation
 
-To run the site locally, use:
+This is the website for the Cell Migration Standardisation Organisation.
 
-```bundle exec jekyll serve```
+See it live at: http://cellmigstandorg.github.io/
 
 
-colors:
-
-light green: #e7ede7
-
-darker green: #6e916e

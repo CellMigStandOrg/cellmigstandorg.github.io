@@ -16,7 +16,7 @@
 title: Cell Migration Standardisation Organization
 description: Cell Migration Standardisation Organization (CMSO)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://cellmigstandorg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CellMigStandOrg
 github_username:  CellMigStandOrg
 
