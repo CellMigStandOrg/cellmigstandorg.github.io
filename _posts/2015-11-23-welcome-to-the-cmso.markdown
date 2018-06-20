@@ -5,7 +5,7 @@ date:   2015-11-23 18:29:21 +0100
 categories: announcement
 ---
 
-The [Cell Migration Standardisation Organisation (CMSO)]({{ site.baseurl }}/about) 
+The [Cell Migration Standardisation Organisation (CMSO)]({{ site.baseurl }})
 is created to organize and streamline the creation of community-sourced 
 standards in the field of cell migration.
 
@@ -37,5 +37,4 @@ and the work is split into several working groups.
 The most notable events for the CMSO are the workshops, for which
 participation is always free and open to anyone interested.
 
-CMSO is also represented on 
-[BioSharing.org](https://biosharing.org/collection/CellMigrationStandardisationOrganisation).
+CMSO is also represented on [FAIRsharing.org](https://fairsharing.org/).
