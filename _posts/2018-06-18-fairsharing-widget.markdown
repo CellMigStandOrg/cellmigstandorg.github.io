@@ -18,5 +18,5 @@ Recently, the [FAIRsharing team](https://fairsharing.org) has also produced a wi
 graph view shows the network of relationships among the resources in the collection. You can drag the graph around, zoom in to examine a specific region in more detail, see summary information for each node and click on each node to see its whole record in FAIRsharing.
 It is also possible to visualise other related resources that are not currently in the collection. This may allow organisations to consider resources of which they may not have been aware.
 
-We are now using the FAIRsharing widget for the CMSO collection in our page, and you can visit it [here]({{ site.baseurl }}/fairsharing-widget/).
+We are now using the FAIRsharing widget for the CMSO collection in our page, and you can visit it [here]({{ site.baseurl }}/fairsharing_widget/).
 
