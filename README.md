@@ -3,6 +3,6 @@
 
 This is the website for the Cell Migration Standardisation Organisation.
 
-See it live at: http://cellmigstandorg.github.io/
+See it live at:  http://cmso.science
 
 
