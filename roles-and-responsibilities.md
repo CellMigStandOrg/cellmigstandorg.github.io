@@ -32,10 +32,8 @@ For the [working groups]({{ site.baseurl }}/groups):
      Oxford University, UK
 
 2. Controlled Vocabularies working group
-
-   - Chair: [Philippe Rocca-Serra](http://www.oerc.ox.ac.uk/people/philippe-rocca-serra),
-     Oxford University, UK
-   - Co-Chair: David Abraham, Data Curator, USA
+    
+   - Chair: David Abraham, Data Curator, USA
 
 3. Standard Formats and Software APIs working group
 
