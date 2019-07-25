@@ -26,29 +26,25 @@ results, but also to allow reproduction of the study itself, if desired.
 
 Minimal reporting requirements typically take the form of a document with
 guidelines or rules that state which information is considered essential when
-reporting on a given procedure, technique or analysis.
+reporting on a given procedure, technique or analysis. 
 
-The goal of this group is to create this document.
+This working group has delivered increasingly refined and tested versions of 
+the Minimal Information About a Cell Migration Experiment (MIACME).
 
-### MIACME v0.1 release
+The outcomes of this working group are:
+- [the MIACME specifications](MIACME) that describe what is required for the reporting 
+of cell migration experiments both in a narrative document as well as in machine-readable and
+actionable schemas; the specifications also describe the process followed to define the 
+guidelines in an incremental way and by engaging the cell migration community
+- [a set of datasets](https://github.com/CellMigStandOrg/CMSO-datasets) that demonstrate the use
+of the MIACME guidelines and their relation to the other CMSO outcomes  
 
-The Minimal Information About a Cell Migration Experiment (MIACME) 
-specification have been released in version 0.1, and are now open for comments!
+### Process
 
-Please find the main page with the documentation of this specification on the 
-CMSO GitHub:
+The process to derive the MIACME guidelines is described in the specifications. 
 
-https://github.com/CellMigStandOrg/MIACME
-
-The direct link to the Google spreadsheet, that is currently open for 
-comments, can be found below:
-
-http://tiny.cc/miacme-live
-
-### Survey
-
-A community driven survey has been created with the latest draft of minimal 
-reporting guidelines. The purpose is to gain input on the quality and the
+One of the elements of this process was to design a community driven survey with a draft 
+draft of minimal reporting guidelines. The purpose was to gain input on the quality and the
 necessity of the proposed requirements to take into account during further
 discussion.
 
@@ -60,7 +56,7 @@ Controlled vocabularies are a key element to ensure unambiguous annotation of
 data and results. Controlled vocabularies are moreover designed to be both
 human as well as machine readable.
 
-The goal of this working group is to examine existing controlled vocabularies
+The goal of this working group was to examine existing controlled vocabularies
 (CVs) for re-use where possible, to propose the addition of terms to an
 existing CV where appropriate, and to create a novel CV where necessary.
 
