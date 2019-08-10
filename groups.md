@@ -25,7 +25,7 @@ This working group has delivered increasingly refined and tested versions of
 the Minimal Information About a Cell Migration Experiment (MIACME).
 
 The outcomes of this working group are:
-- [the MIACME specifications](MIACME) that describe what is required for the reporting 
+- [the MIACME specifications](http://cmso.science/MIACME/) that describe what is required for the reporting 
 of cell migration experiments both in a narrative document as well as in machine-readable and
 actionable schemas (in the form of JSON schemas for JSON-LD instances); the specifications also describe the process followed to define the guidelines in an incremental way and by engaging the cell migration community
 - [a set of datasets](https://github.com/CellMigStandOrg/CMSO-datasets) that demonstrate the use
